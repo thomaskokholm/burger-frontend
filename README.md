@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Burger Frontend 1.0
+
+A social platform for burger fans to review local burger places.
+
+This application is build with React using the Next.js framework, Auth.js and Tailwind CSS.
 
 ## Getting Started
 
